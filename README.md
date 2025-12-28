@@ -35,20 +35,10 @@ Growflix-main/
 
 ## Como Executar o Projeto
 
-1. Clone ou baixe este repositório;
-2. Abra o arquivo `index.html` em seu navegador;
-3. Navegue pelo conteúdo e aproveite os vídeos!
+1.  Clique nesse link para abrir no Vercel: https://vercel.com/giovanna-figueiroas-projects/growflix
 
 Não é necessário nenhum servidor ou instalação de dependências.
 
-## Sobre os Arquivos
-
-- **index.html**: Página inicial com informações, perguntas frequentes e botão de acesso ao catálogo;
-- **html/home.html**: Página principal dos vídeos, com navegação por categorias e player modal;
-- **js/data.js**: Lista dos vídeos disponíveis, com título, imagem, link e categoria;
-- **js/home.js**: Scripts para renderização dinâmica dos cards de vídeo e funcionamento do modal;
-- **css/style.css**: Estilos customizados para layout, responsividade e animações;
-- **assets/**: Logos, banners e imagens utilizadas no site.
 
 ## Contribuição
 
