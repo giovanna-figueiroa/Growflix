@@ -35,8 +35,7 @@ Growflix-main/
 
 ## Como Executar o Projeto
 
-1.  Clique nesse link para abrir no Vercel: https://vercel.com/giovanna-figueiroas-projects/growflix
-
+1.  Clique nesse link para abrir no Vercel: https://growflix-mu.vercel.app/
 Não é necessário nenhum servidor ou instalação de dependências.
 
 
